@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VinceDagz/iplayvpnprov6/refs/heads/main/meowmeowhub.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VinceDagz/iplayvpnprov6/refs/heads/main/meowmeowhub.lua"))()
