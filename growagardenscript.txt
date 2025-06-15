@@ -22,7 +22,6 @@ for _, name in ipairs(restrictedExecutors) do
 end
 
 if isRestricted then
-    -- Message and kick
     game.Players.LocalPlayer:Kick("This script doesn't work on Delta Executor. Use other scripts like Krnl, Codex, ArceusX, Hydrogen for more better performance - Yukii")
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/VinceDagz/iplayvpnprov6/refs/heads/main/newupdategrowagarden.lua", true))()
